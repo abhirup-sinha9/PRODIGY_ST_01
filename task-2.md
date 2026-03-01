@@ -1,9 +1,8 @@
 #  Cross-Browser & Cross-Device Testing Report
 
 ##  Project Name
-**Website:** [Enter Website URL]  
-**Tested By:** [Your Name]  
-**Date:** [DD/MM/YYYY]
+**Website:** https://shoplane-by-lassie.netlify.app/
+**Tested By:** Abhirup Sinha
 
 ---
 
