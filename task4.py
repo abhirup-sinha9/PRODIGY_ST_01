@@ -7,7 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 USERNAME = "YOUR_BROWSERSTACK_USERNAME"
 ACCESS_KEY = "YOUR_BROWSERSTACK_ACCESS_KEY"
 
-BROWSERSTACK_URL = "https://{}:{}@hub-cloud.browserstack.com/wd/hub".format(ABHIRUP, ACCESS_KEY)
+BROWSERSTACK_URL = "https://{}:{}@hub-cloud.browserstack.com/wd/hub".format(USERNAME, ACCESS_KEY)
 
 class SwagLabsTest(unittest.TestCase):
 
